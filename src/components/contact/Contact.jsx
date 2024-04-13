@@ -45,11 +45,11 @@ const Contact = () => {
             <h4>Messenger</h4>
             <h5>Pragnavi RSD</h5>
             <h5>pragnavi1398@gmail.com</h5>
-            <a href='https://m.me/pragnavi1398' target='_blank'>Send a message</a>
+            <a href='https://m.me/kiran14997' target='_blank'>Send a message</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon'/>
-            <h4>WahtsAPP</h4>
+            <h4>WhatsApp</h4>
             <h5>+13477234375</h5>
             <a href='https://api.whatsapp.com/send?phone=13477234375' target='_blank'>Send a message</a>
           </article>

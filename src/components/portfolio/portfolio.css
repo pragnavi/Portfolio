@@ -22,14 +22,25 @@
     overflow: hidden;
 }
 
+.portfolio__item-text {
+    margin-bottom: 2rem;
+    overflow: hidden;
+}
+
 .portfolio__item h3 {
-    margin: 1.2rem 0 2rem;
+    margin: 1.2rem 0 0.5rem;
+    text-align: center;
+}
+
+.portfolio__item h5 {
+    /* margin: 1.2rem 0 1rem; */
+    text-align: center;
 }
 
 .portfolio__item-cta {
     display: flex;
-    gap: 1rem;
     margin-bottom: 1rem;
+    justify-content: center;
 }
 
 /* ================ MEDIA QUERIES (MEDIUM DEVIES - TABLET SCREENS) ================= */
