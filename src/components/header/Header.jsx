@@ -14,7 +14,7 @@ const Header = () => {
             {/* <h5 className='text-light'>Data Scientist</h5> */}
             <h2>
             <ReactTyped
-              strings={["IOS Developer", "Data Scientist", "Full Stack Developer", "SCCM Administrator", "Automation Systems Engineer", ".Net Developer", "Machine Learning Engineer"]}
+              strings={["IOS Developer", "DevOps Engineer", "Data Scientist", "Full Stack Developer", "SCCM Administrator", "Automation Systems Engineer", ".Net Developer", "Machine Learning Engineer"]}
               typeSpeed={100}
               loop
               backSpeed={20}
